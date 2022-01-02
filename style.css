@@ -1,0 +1,62 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: rgb(41, 34, 35);
+}
+
+h1{
+  font-weight: 1000;
+  font-family: monospace;
+  font-size: 6rem;
+  color: rgb(92, 236, 174);
+  text-shadow: 7px 0 rgb(218, 245, 233);
+}
+
+
+
+.conteiner{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 70px;
+}
+
+p{
+  color: rgb(92, 236, 174);
+  font-size: 2rem;
+  text-shadow: 2px 0 rgb(218, 245, 233);
+  font-family: monospace;
+  /* padding-left: 20px; */
+}
+
+.dicee{
+  padding: 5px;
+  
+}
+
+img{
+  height: 200px;
+  width: 170px;
+  /* padding-left: 20px; */
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+.btn{
+  margin-bottom: 5px;
+  height: 3rem;
+  font-size: 1.5rem;
+  color: rgb(144, 234, 193);
+  background-color: #D80027;
+  border-radius: 5px;
+}
+
+footer{
+  color: aliceblue;
+  font-family: monospace;
+  text-shadow: 2px 0 rgb(144, 234, 193);
+  font-size: 2rem;
+}
